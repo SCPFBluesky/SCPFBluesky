@@ -56,7 +56,7 @@ Another very simple Script that displays a table of groupids, if the player is i
 ## 🔫 🔵  [Impending doom gun system](https://github.com/SCPFBluesky/Bloop-s-GunSystemV2)
 - [DEMO](https://www.youtube.com/watch?v=fIpUHjrXHLk&feature=youtu.be)
 
-A fully complete, free to use optimized, gun system recivies content and maintenance updates almost daily.
+A fully complete, free to use optimized, gun system made with Flux V3, that recivies content and maintenance updates almost daily.
 
 -------------------------------------------
 
