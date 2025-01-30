@@ -16,18 +16,10 @@ Hello! I am DrBloop. Welcome to my Portfilio!
 
 -------------------------------------------
 
-
 ## 🔧 🔴 **[Anti Fly Exploit System]**
 A script that kicks exploiters that were detected for using fly hacks.
 
 [Video](https://www.youtube.com/watch?v=VIreAThaemY)
-
--------------------------------------------
-
-
-## 🔧 🔴 [CreateAnimation](https://create.roblox.com/store/asset/102193088515667/CreateAnimation)
-
-A Simple easy to use Module designed for programmers to simplify creating and loading animations.
 
 -------------------------------------------
 
@@ -55,8 +47,6 @@ Another very simple Script that displays a table of groupids, if the player is i
 ## 🔧 🔵 [Atlas Generation 3](https://github.com/SCPFBluesky/Atlas-Generation-3)
 
 A simple and easy to understand and work in progress framework made for developers!
-
--------------------------------------------
 
 -------------------------------------------
 
@@ -96,16 +86,14 @@ I was the scripter for Magma's old S19 V3 Game, made in Q1 2024. It's shit.
 -------------------------------------------
 
 
-## 🔵 [GrumpyOrDie's Site-19 V3](https://www.roblox.com/games/111707657275253/S-C-P-Site-19-Roleplay-V-3-0-2-3)
+## 🔴 [GrumpyOrDie's Site-19 V3](https://www.roblox.com/games/111707657275253/S-C-P-Site-19-Roleplay-V-3-0-2-3)
 
 I am currently a developer for GrumpyOrDie's V3 as the **lead programmer**, a new and improved game is underway soon the game you see is outdated and was made for an induvial I have decided not to name on for reasons I will not elaborate on.
 
 -------------------------------------------
 
-
-
 ## Commissions
-I am open for **commissions**! Prices will vary based on the quality of the work, as well as your personal satisfaction.
+no die (soon)
 
 -------------------------------------------
 
